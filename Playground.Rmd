@@ -1,0 +1,38 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.2'
+      jupytext_version: 1.15.2
+  kernelspec:
+    display_name: Python 3 (ipykernel)
+    language: python
+    name: python3
+---
+
+# Machine Learning as a Method of Exploration: Letterboxd
+
+
+### Importing datasets and code libraries
+
+```{python}
+# %run -i scripts/imports.py
+```
+
+```{python}
+# %run -i scripts/data.py
+```
+
+### Exploring the predictability of different film's ratings
+
+```{python}
+# %run -i scripts/predictability.py
+```
+
+### Investigating a hunch relating predictability and release-date
+
+```{python}
+# %run -i scripts/release-dates-by-predictability.py
+```
