@@ -28,4 +28,4 @@ for n in range(n_iters):
     results.append(pd.Series(errors, index = reviewed_by_all.index))
 results_df = pd.concat(results,axis=1)
 means = (results_df.abs().sum(axis=1,skipna=True)/1000).sort_values(ascending=False)
-print(f'The most predictably rated film is: {means.index[0]} with an error of: {means.iloc[0]} \nThe least predictably rated film is: {means.index[-1]} with an error of: {means.iloc[-1]}')
+print(f'The least predictably rated film is: {means.index[0]} with an error of: {means.iloc[0]} \nThe most predictably rated film is: {means.index[-1]} with an error of: {means.iloc[-1]}')
