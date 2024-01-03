@@ -1,7 +1,0 @@
-Racing against the ticking clock, you flee the fest, heart pounding with a mix of adrenaline and fear. Your heart sinks as you realise the pod won't accept you without your band. You are thrown back into reality, the physical reality where you are forced to travel the long way home through the streets of the city.<br><br>
-You arrive home as dawn breaks to find your father anxiously waiting. He is relieved at your arrival and in a rare moment of connection he understands what you have lost. The mother and sisters return home with snide remarks at the ready, but they are too busy bickering. Clearly they did not fit in at the Festival.<br><br>
-Sullenly, you settle back into your day-to-day routine, there is a knock at the door. You open it to find the Creator from the Fest. "CineReeler" he exclaims, a grin on his face.<br><br>
-He makes you an offer, you can stay here with your father, but as a moderator gaining the recognition and standing to make an impact on the network through your expressive analysis, or you can join him as a creator, reshaping the network in your image to bring authenticity to the network to help the netizens find their own identities.<br><br>
-You reflect on the path that has brought you here and what is important to you, you consider how your choices led you to this point realising your diligence made this inevitable, but you had little power in the matter. The path forward is clear and you know what you must do.<br><br>
-The End<br><br>
-[Rate & Review](mailto:alex.anstruther@lis.ac.uk?subject=[Sci-fi]
